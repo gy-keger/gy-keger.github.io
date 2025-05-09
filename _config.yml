@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "WechatIMG21.jpg"
   name             : "Yong Guan 关勇 (清华大学)"
   pronouns         : # example: "she/her"  
   bio              : "博士后，知识工程实验室，清华大学，"
