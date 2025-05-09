@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 
 ---
-## About Me
+## :mortar_board: About Me
 
 I am currently a postdoctoral researcher at Tsinghua University, working with Prof. Juanzi Li. Before that, I received my Ph.D. degree from Shanxi University in 2022, under the supervision of Prof. Ru Li. I have published several papers in top-tier conferences such as WWW, AAAI, ICLR, ACL, EMNLP, COLING and so on.
 
@@ -19,5 +19,8 @@ My research interests broadly lie in **Large Language Models (LLMs)**, **Natural
 
 - **Model Mechanism Analysis**: Investigate model behaviors and outputs to better understand internal mechanisms, improve models at a fundamental level, and provide interpretable and trustworthy support for predictions.
 
-A data-driven personal website
-======
+
+
+
+
+## :books: Publications
