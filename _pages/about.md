@@ -25,7 +25,7 @@ My research interests broadly lie in **Large Language Models (LLMs)**, **Natural
 
 
 
-## 📚 Publications
+## 📚 Selected Publications
 
 - OpenEP: Open-Ended Future Event Prediction.
 **Yong Guan**, Hao Peng, Xiaozhi Wang, Lei Hou, Juanzi Li.
