@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher, Knowledge Engineering Laboratory, Tsinghua University"
   location         : "Bejing, China"
-  employer         : "Tsinghua University"
+  employer         : #"Tsinghua University"
   uri              : # URL
   email            : "guanyong0130@163.com" 
 
