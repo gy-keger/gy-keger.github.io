@@ -27,41 +27,41 @@ My research interests broadly lie in **Large Language Models (LLMs)**, **Natural
 
 - Knowledge-Aware Neuron Interpretation for Scene Classification.  
 **Yong Guan**, Freddy Lecue, Jiaoyan Chen, Ru Li, Jeff Z. Pan.  
-In Proceedings of the AAAI Conference on Artificial Intelligence. (AAAI2024, CCF-A)
+In Proceedings of the AAAI Conference on Artificial Intelligence. (AAAI 2024)
 
 - Event GDR: Event-Centric Generative Document Retrieval.  
 **Yong Guan**, Dingxiao Liu, Jinchen Ma, Hao Peng, Xiaozhi Wang, Lei Hou, Ru Li.  
-In Proceedings of the ACM on Web Conference. (WWW2024, CCF-A)
+In Proceedings of the ACM on Web Conference. (WWW 2024)
 
 - Trigger-Argument based Explanation for Event Detection.  
 **Yong Guan**, Jiaoyan Chen, Freddy Lecue, Jeff Z. Pan, Juanzi Li, Ru Li.  
-Findings of the Association for Computational Linguistics. (ACL2023, CCF-A)
+Findings of the Association for Computational Linguistics. (ACL 2023)
 
 - MMD-ERE: Multi-Agent Multi-Sided Debate for Event Relation Extraction.  
 **Yong Guan**, Hao Peng, Lei Hou, Juanzi Li.  
-The 31st International Conference on Computational Linguistics. (COLING2025, CCF-B)
+The 31st International Conference on Computational Linguistics. (COLING 2025)
 
 - TacoERE: Cluster-aware Compression for Event Relation Extraction.  
 **Yong Guan**, Xiaozhi Wang, Lei Hou, Juanzi Li, Jeff Z. Pan, Jiaoyan Chen, Freddy Lecue.  
-In Proceedings of the 2024 Joint International Conference on Computational Linguistics. (COLING2024, CCF-B)
+In Proceedings of the 2024 Joint International Conference on Computational Linguistics. (COLING 2024)
 
 - Frame semantic-enhanced sentence modeling for sentence-level extractive text summarization.  
 **Yong Guan**, Shaoru Guo, Ru Li, Xiaoli Li, Hongye Tan.  
-In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. (EMNLP2021, CCF-B)
+In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. (EMNLP 2021)
 
 - Integrating semantic scenario and word relations for abstractive sentence summarization.  
 **Yong Guan**, Shaoru Guo, Ru Li, Xiaoli Li, Hu Zhang.  
-In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. (EMNLP2021, CCF-B)
+In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. (EMNLP 2021)
 
 - Frame semantics guided network for abstractive sentence summarization.  
 **Yong Guan**, Shaoru Guo, Ru Li, Xiaoli Li, Hu Zhang.  
-Knowledge-Based Systems. 2021, 221:106973. (SCI 1 区)
+Knowledge-Based Systems. 2021, 221:106973. 
 
 - Structure-to-Word Dynamic Interaction Model for Abstractive Sentence Summarization.  
 **Yong Guan**, Shaoru Guo, Ru Li.  
-Neural Computing and Applications. (SCI 3 区)
+Neural Computing and Applications.  
 
 - What Linguistic Information Does Reading Comprehension Require?  
 **Yong Guan**, Ru Li, Shaoru Guo.  
-The China Conference on Knowledge Graph and Semantic Computing. (CCKS2020, EI 检索)
+The China Conference on Knowledge Graph and Semantic Computing. (CCKS 2020)
 
