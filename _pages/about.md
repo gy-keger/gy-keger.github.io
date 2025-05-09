@@ -27,6 +27,11 @@ My research interests broadly lie in **Large Language Models (LLMs)**, **Natural
 
 ## 📚 Publications
 
+- OpenEP: Open-Ended Future Event Prediction.
+**Yong Guan**, Hao Peng, Xiaozhi Wang, Lei Hou, Juanzi Li.
+arXiv preprint arXiv:2408.06578.
+
+
 - Knowledge-Aware Neuron Interpretation for Scene Classification.  
 **Yong Guan**, Freddy Lecue, Jiaoyan Chen, Ru Li, Jeff Z. Pan.  
 In Proceedings of the AAAI Conference on Artificial Intelligence. (AAAI 2024)
