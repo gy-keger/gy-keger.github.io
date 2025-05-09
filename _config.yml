@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yong Guan's Homepage"
+title                    : "Homepage: Yong Guan 关勇"
 title_separator          : "-"
 name                     : &name "Yong Guan"
 description              : &description "personal description"
