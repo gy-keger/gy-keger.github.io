@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 🎓 About Me
-I am currently a postdoctoral researcher at Tsinghua University, working with Prof. <a href="https://www.cs.tsinghua.edu.cn/info/1111/3487.htm" style="color:#007acc; font-weight:bold;" target="_blank">**Juanzi Li**</a>. Before that, I received my Ph.D. degree from Shanxi University in 2022, under the supervision of Prof. Ru Li. I have published several papers in top-tier conferences such as WWW, AAAI, ICLR, ACL, EMNLP, COLING and so on.
+I am currently a postdoctoral researcher at Tsinghua University, working with Prof. <a href="https://www.cs.tsinghua.edu.cn/info/1111/3487.htm" style="color:#007acc; font-weight:bold;" target="_blank">**Juanzi Li**</a>. Before that, I received my Ph.D. degree from Shanxi University in 2022, under the supervision of Prof. <a href="https://cs.sxu.edu.cn/faculty/professor/1448/index.htm" style="color:#007acc; font-weight:bold;" target="_blank">**Ru Li**</a>. I have published several papers in top-tier conferences such as WWW, AAAI, ICLR, ACL, EMNLP, COLING and so on.
 
 
 My research interests broadly lie in **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Knowledge Engineering**. Specifically, I focus on the following four directions:
