@@ -7,7 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a postdoctoral researcher at Tsinghua University, working with Prof. Juanzi Li. Before that, I received my Ph.D. degree from Shanxi University in 2022, under the supervision of Prof. Ru Li. I have published several papers in top-tier conferences such as WWW, AAAI, ICLR, ACL, EMNLP, COLING and so on.
+
+
+My research interests broadly lie in **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Knowledge Engineering**. Specifically, I focus on the following four directions:
+
+- **Intelligent Agents**: Aim to build agents with multi-modal perception, autonomous decision-making, natural language interaction, and complex task planning capabilities. Explore methods to improve cross-domain collaboration and continual learning, enabling efficient integration of intelligent systems into real-world applications.
+
+- **Knowledge Acquisition**: Leverage large language models to extract complex structured knowledge from natural language, and optimize model behavior for large-scale, high-precision knowledge acquisition.
+
+- **Knowledge Application**: Enhance the reasoning and understanding capabilities of LLMs through knowledge integration, mitigate hallucinations, and support effective deployment in vertical domains.
+
+- **Model Mechanism Analysis**: Investigate model behaviors and outputs to better understand internal mechanisms, improve models at a fundamental level, and provide interpretable and trustworthy support for predictions.
 
 A data-driven personal website
 ======
