@@ -22,7 +22,7 @@ repository               : "https://gy-keger.github.io/"
 #               Additional customization clsan be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Yong Guan 关勇 (清华大学)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher, Knowledge Engineering Laboratory, Tsinghua University"
